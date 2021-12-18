@@ -1,0 +1,115 @@
+[
+    {
+        "Id": 1,
+        "Name": "Nicolas Chourot",
+        "Email": "Nicolas.Chourot@clg.qc.ca",
+        "Password": "123",
+        "AvatarGUID": "92b43a60-43fb-11ec-8064-5deac1c83b94",
+        "Created": 1601500396
+    },
+    {
+        "Id": 2,
+        "Name": "Stéphane Chassé",
+        "Email": "Stephane.Chasse@clg.qc.ca",
+        "Password": "Password_123",
+        "Created": 1601500614
+    },
+    {
+        "Id": 3,
+        "Name": "Patrice Roy",
+        "Email": "Patrice.Roy@clg.qc.ca",
+        "Password": "Password_123",
+        "Created": 1601500919
+    },
+    {
+        "Id": 4,
+        "Name": "Saliha Yacoub",
+        "Email": "Saliha.Yacoub@clg.qc.ca",
+        "Password": "Password_123",
+        "Created": 1601501044
+    },
+    {
+        "Id": 5,
+        "Name": "Kyle Ross",
+        "Email": "Kyle.Ross@clg.qc.ca",
+        "Password": "Password_123",
+        "Created": 1601564566
+    },
+    {
+        "Id": 6,
+        "Name": "Rachid Kadouche",
+        "Email": "Rachid.Kadouche@clg.qc.ca",
+        "Password": "Password_123",
+        "Created": 1603112394
+    },
+    {
+        "Id": 7,
+        "Name": "Warda Moussadak",
+        "Email": "Warda.Moussadak@clg.qc.ca",
+        "Password": "123",
+        "Created": 1603740612
+    },
+    {
+        "Id": 9,
+        "Name": "François Boileau",
+        "Email": "Francois.Boileau@clg.qc.ca",
+        "Password": "123",
+        "Created": 1636032311
+    },
+    {
+        "Id": 10,
+        "Name": "t",
+        "Email": "t@gmail.com",
+        "Password": "t",
+        "AvatarGUID": "55c294e0-4e6d-11ec-ac5d-99d1e1864fad",
+        "Created": 1637899203
+    },
+    {
+        "Id": 11,
+        "Name": "fred",
+        "Email": "f@gmail.com",
+        "Password": "f",
+        "AvatarGUID": "e4fc0410-53ff-11ec-9e20-f7fb05568033",
+        "Created": 1638511904
+    },
+    {
+        "Id": 12,
+        "Name": "mmm",
+        "Email": "1@s.com",
+        "Password": "123",
+        "AvatarGUID": "603b03d0-569c-11ec-9adf-4774d8ad1236",
+        "Created": 1638799017
+    },
+    {
+        "Id": 13,
+        "Name": "td",
+        "Email": "td@gmail.com",
+        "Password": "td",
+        "AvatarGUID": "26283050-57c3-11ec-a18c-79a8a00cd2ac",
+        "Created": 1638925621
+    },
+    {
+        "Id": 14,
+        "Name": "ici",
+        "Email": "ici@gmail.com",
+        "Password": "ici",
+        "AvatarGUID": "e7acce10-57e2-11ec-aa79-cd7ede835c2c",
+        "Created": 1638939260
+    },
+    {
+        "Id": 15,
+        "Name": "Marius",
+        "Email": "Marius@yahoo.com",
+        "Password": "123",
+        "AvatarGUID": "3652ff50-5f89-11ec-a860-7bcd01fa00e6",
+        "Created": 1639780347
+    },
+    {
+        "Id": 16,
+        "Name": "Fred",
+        "Email": "Fred@clg.com",
+        "Password": "123",
+        "AvatarGUID": "bf1ec380-5f8b-11ec-a901-332301906990",
+        "Created": 1639781435
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 2,
+        "Title": " La police indienne retrouve une montre volée à Diego Maradona",
+        "Description": "La police indienne a retrouvé une montre de luxe volée à Diego Maradona il y a quelques années à Dubaï.La police a également arrêté le suspect à l'origine du vol présumé de cette montre qui avait été personnalisée par la compagnie suisse Hublot.\n\n« Wazid Hussain avait volé des objets appartenant à la légende du football Diego Maradona dans sa résidence de Dubaï, dont une montre Hublot appartenant à la légende elle-même, et s'était enfui », a précisé Rakesh Roushan, le superintendant de la police de Sivasagar.",
+        "Created": 1639781267,
+        "GUID": "5ad3b700-5f8b-11ec-a901-332301906990",
+        "UserId": 15
+    },
+    {
+        "Id": 3,
+        "Title": "Baïkonour : Serguiy Bitchkov, le prêtre Russe qui bénit les fusées",
+        "Description": "Dans la ville kazakhe de Baïkonour, administrée par la Russie, le prêtre orthodoxe Serguiy Bitchkov bénit tous les engins qui décollent vers l'espace depuis 1999. Selon son décompte, la bénédiction du Soyouz MS20 qui a transporté le milliardaire japonais Yusaku Maezawa vers l'ISS cette semaine est sa 380e cérémonie.« Cela a d'abord commencé avec les militaires, leurs familles, les enfants. Peu à peu, avec l'aide de Dieu, nous nous sommes rapprochés des cosmonautes, des ingénieurs, des ingénieurs en chef des fusées. Et en 1999, il a été décidé de bénir tous les vaisseaux spatiaux qui sont envoyés d'ici », explique-t-il.",
+        "Created": 1639781364,
+        "GUID": "94614be0-5f8b-11ec-a901-332301906990",
+        "UserId": 15
+    },
+    {
+        "Id": 4,
+        "Title": "Des chameaux botoxés exclus d’un concours de beauté en Arabie saoudite",
+        "Description": "(Ryad) Un concours de beauté pour chameaux en Arabie saoudite a été touché cette semaine par un scandale avec la disqualification de dizaines de camélidés ayant notamment subi des injections de botox.Avec des prix allant jusqu’à 66 millions de dollars, le festival du roi Abdelaziz, rendez-vous annuel ancré dans la tradition bédouine, accueille des éleveurs venant de tout le Golfe.\n\nLa forme et la taille des lèvres, du cou et de la bosse sont les principaux critères de beauté pour départager les chameaux lors de ce concours qui se tient jusqu’à la mi-janvier dans un désert au nord-est de Riyad.",
+        "Created": 1639781510,
+        "GUID": "eb74dc80-5f8b-11ec-a901-332301906990",
+        "UserId": 16
+    },
+    {
+        "Id": 5,
+        "Title": "Un père Noël plongeur offre des cadeaux aux poissons d'un aquarium",
+        "Description": "Un aquarium de Bangkok célèbre Noël en organisant des spectacles où des plongeurs déguisés en Père Noël nourrissent les requins et les poissons. L'événement se déroulera une fois par jour du 14 au 26 décembre 2021.",
+        "Created": 1639781588,
+        "GUID": "1a2a1b30-5f8c-11ec-a901-332301906990",
+        "UserId": 16
+    },
+    {
+        "Id": 6,
+        "Title": "La drôle de raison pour laquelle Kim Jong-un a interdit le cuir",
+        "Description": "Citée par le média financé par le Congrès des États-Unis et émettant en neuf langues asiatiques, la police nord-coréenne a dévoilé que « porter des vêtements pour ressembler à La Plus Haute Dignité [Kim Jong-un, NDLR] est une tendance impure à vouloir défier l’autorité de La Plus Haute Dignité, elle ordonne à la population de ne pas porter de manteaux en cuir, car il revient au parti de décider de qui peut en porter ».Cette pièce vestimentaire est désormais interdite à la vente, sous peine de représailles pour les vendeurs, et à l’achat. En droit de confisquer les pardessus des habitants, la police coréenne sévirait activement. En Corée du Nord, mieux vaut ne pas manquer au strict règlement et accepter le conditionnement, comme l’a appris malgré lui un homme : il a été exécuté pour avoir introduit une clé USB contenant des épisodes de la série Squid Game.",
+        "Created": 1639781921,
+        "GUID": "e0bebee0-5f8c-11ec-a901-332301906990",
+        "UserId": 16
+    },
+    {
+        "Id": 7,
+        "Title": "Il signe un décret pour interdire à la neige de tomber",
+        "Description": "Le maire d’une petite commune française a décidé d’interdire à la neige de tomber pour dénoncer le manque de moyens de son village. \nEn effet, Marc Chevant, a choisi l’humour afin de mettre d’avant plan le peu de ressources dont dispose Cerdon pour faire face à la neige. \nLe seul tracteur de l’endroit qui est en mesure de déneiger la commune est tombé en panne.Il a ainsi signé un arrêt qui interdit non seulement à la neige de tomber, mais il lance aussi des flèches à ses citoyens, qui se plaignent souvent de l’état des routes en hiver. Il faut dire que le début de l’hiver a été difficile pour Cerdon. À la fin du mois de novembre, le tracteur municipal qui sert autant à déneiger qu’à entretenir les voiries tombe en panne. ",
+        "Created": 1639782399,
+        "GUID": "fd488ae0-5f8d-11ec-a901-332301906990",
+        "UserId": 1
+    },
+    {
+        "Id": 8,
+        "Title": "Un faux aveugle surpris au volant d'une voiture",
+        "Description": "Un Italien qui a perçu pendant des années une aide financière de l'État pour malvoyance a été arrêté mercredi sous le soupçon de fraude après avoir été surpris en train de conduire, de circuler en scooter et de faire du lèche-vitrines, ont indiqué les médias.\nCet habitant de Palerme en Sicile a perçu un total d'au moins 170 000 euros (191 000 dollars) d'aides depuis 2008 après avoir déclaré être «totalement aveugle» en raison d'un problème congénital.",
+        "Created": 1639782839,
+        "GUID": "03ce0c40-5f8f-11ec-a901-332301906990",
+        "UserId": 1
+    }
+]
